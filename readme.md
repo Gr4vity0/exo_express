@@ -1,7 +1,5 @@
 # Exo Express
 
-## Thème p
-
 ## Fonctionnalités
 - Une page d'accueil avec une image de présentation
 - Une page contact avec un formulaire
@@ -17,4 +15,18 @@
 - Description
 - Image
 
-Pour les données, stocker sous la forme de json (ou obj js).
+_Pour les données, stocker sous la forme de json (ou obj js)._
+
+## Formulaire de contact
+- Email
+- Pseudo (opt)
+- Catégorie [ Info / Devis / Réclamation / Autres ]
+- Message [ Textarea ]
+
+
+## Contraintes
+- Faire un projet NodeJs avec Express
+- L'architecture doit être respectée avec le pattern MVC
+- Utiliser un moteur de vue (ejs, moustache, ...)
+- Le code doit être propre et commenté si nécessaire
+- L'interface doit être user friendly (navbar, un minimum de css)
